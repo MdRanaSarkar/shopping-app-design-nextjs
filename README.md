@@ -12,7 +12,22 @@ yarn dev
 pnpm dev
 # or
 bun dev
+
+# For icons - install react-icons
+
+npm install react-icons --save
+
+# for slider install react-slick
+
+npm install react-slick --save
+npm install slick-carousel --save
+
+# or 
+yarn add react-slick
+yarn add slick-carousel
+
 ```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
